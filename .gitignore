@@ -1,0 +1,9 @@
+echo "venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+models/
+.env
+.DS_Store
+" > .gitignore
